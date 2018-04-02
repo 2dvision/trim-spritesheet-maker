@@ -16,3 +16,5 @@ You need to:
 You could change the "COL_MAX" variable for the column number of spritesheet.
 
 The source of images inside the "images_folder" is [here](https://www.gameart2d.com/cute-girl-free-sprites.html)
+
+ps. I'm new to Python, take it easy. :)
